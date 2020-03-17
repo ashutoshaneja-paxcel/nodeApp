@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Basic App",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshaneja-paxcel/nodeApp.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ashutosh Aneja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshaneja-paxcel/nodeApp/issues"
+  },
+  "homepage": "https://github.com/ashutoshaneja-paxcel/nodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
